@@ -1,4 +1,4 @@
-package com.search.SearchProduct.dto;
+package dto;
 
 public class SpecsDetailsDTO {
     private String name;
