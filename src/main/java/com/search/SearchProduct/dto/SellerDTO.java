@@ -66,6 +66,6 @@ public class SellerDTO {
     private String name;
     private String address;
     private long phoneNumber;
-    private int rate;
+    private int rating;
 
 }
