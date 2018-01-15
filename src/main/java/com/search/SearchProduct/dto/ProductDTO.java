@@ -1,4 +1,4 @@
-package dto;
+package com.search.SearchProduct.dto;
 
 public class ProductDTO {
 
